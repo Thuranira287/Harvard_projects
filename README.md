@@ -49,16 +49,20 @@ Create a Feature Branch
 '''bash
 
 git checkout -b feature/new-feature
+
 Commit Your Changes
 
 '''bash
 
 git commit -m "Add new feature"
+
 Push to the Branch
 
 '''bash
 
 git push origin feature/new-feature
+
+
 Create a Pull Request
 
 Go to the repository on GitHub and create a pull request from your feature branch to the main branch.
