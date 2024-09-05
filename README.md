@@ -46,18 +46,18 @@ Fork the Repository
 
 Create a Feature Branch
 
-bash
-Copy code
+'''bash
+
 git checkout -b feature/new-feature
 Commit Your Changes
 
-bash
-Copy code
+'''bash
+
 git commit -m "Add new feature"
 Push to the Branch
 
-bash
-Copy code
+'''bash
+
 git push origin feature/new-feature
 Create a Pull Request
 
