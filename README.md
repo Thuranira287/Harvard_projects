@@ -35,11 +35,13 @@ To get a local copy of the project up and running, follow these simple steps:
 Open the index.html or relevant HTML files in your web browser to view and interact with the project.
 
 Usage
+
 Google Search Button: Enter your query in the search bar and click the "Google Search" button to perform a Google search.
 Lucky Button: Click the "I'm Feeling Lucky" button to be redirected to Google's top result.
 Image Search Button: Enter your query in the image search input and click the "Image Search" button to view Google Images results.
 Advanced Search: Fill out the fields in the advanced search form and click "Advanced Search" to perform a custom search on Google.
-Contributing
+Contributing:
+
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.
 
 Fork the Repository
